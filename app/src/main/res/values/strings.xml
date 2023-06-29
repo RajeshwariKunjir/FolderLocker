@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Folder Locker</string>
+    <string name="lock_button">Lock Folder</string>
+    <string name="unlock_button">Unlock Folder</string>
+    <string name="allow_button">Allow Access</string>
+    <string name="password_dialog_title">Enter Password</string>
+    <string name="password_dialog_message">Please enter the password to unlock the folder</string>
+    <string name="password_dialog_positive_button">Unlock</string>
+    <string name="password_dialog_negative_button">Cancel</string>
+    <string name="folder_locked">Folder locked successfully</string>
+    <string name="folder_already_locked">Folder is already locked</string>
+    <string name="failed_to_lock_folder">Failed to lock the folder</string>
+    <string name="folder_unlocked">Folder unlocked successfully</string>
+    <string name="folder_already_unlocked">Folder is already unlocked</string>
+    <string name="failed_to_unlock_folder">Failed to unlock the folder</string>
+    <string name="folder_does_not_exist">Folder does not exist</string>
+    <string name="please_unlock_folder">Please unlock the folder before allowing access</string>
+    <string name="access_granted">Access granted to the folder</string>
+    <string name="no_folder_locked">No folder is currently locked</string>
+</resources>
