@@ -1,6 +1,3 @@
-# FolderLocker
-This app basically lock the folder and restrict to do activity on that app untill you give access or else you unlock it
-
 
 # Folder Locker App 🔒
 
